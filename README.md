@@ -15,7 +15,7 @@ Technologies used to build the application
 ## Screenshots
 
 <div align="center" id="top"> 
-  ![video](./public/video.gif)
+  ![video](https://user-images.githubusercontent.com/42750037/162202637-28db0a26-8844-481b-85c6-f7a62e29e462.gif)
 </div>
 <br/>
 <br/>
