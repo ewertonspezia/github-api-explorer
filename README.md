@@ -15,7 +15,7 @@ Technologies used to build the application
 ## Screenshots
 
 <div align="center" id="top"> 
-  ![](./public/video.mp4)
+  ![](./public/video.gif)
 </div>
 <br/>
 <br/>
