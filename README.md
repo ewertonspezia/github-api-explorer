@@ -12,7 +12,7 @@ Technologies used to build the application
 - [StyledComponents](https://styled-components.com/docs/basics)
 - [ReactNavigation](https://reactnavigation.org/)
 
-## Application demo
+## Application Demo
 
 ![video](https://user-images.githubusercontent.com/42750037/162202637-28db0a26-8844-481b-85c6-f7a62e29e462.gif)
 
